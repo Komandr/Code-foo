@@ -1,0 +1,23 @@
+
+All following informations are also written on my liquid layout-homepage.
+
+There are two Designs: On the first one (when the windows has its full size, 1680x1050), all three boxes are next to each other.
+The second one is for the resolution 1024x768. There are two boxes on the top and one below.
+
+My Javascript checks the size everytime when the window is resized. Is the width below 1100 and the height below 800,
+it changes to the "small" design, otherwise it uses the "big" design.
+
+There is another function - just for fun :) - where you can change the colors of the Text by clicking on the "change style" link below. 
+
+
+
+Why use liquid layout?
+
+There are several reasons to use liquid layout:
+First it uses the space provided by the Browser efficiently. It could happen that the space would be empty if your resolution is small,
+we can avoid that by using liquid layout.
+
+The designer won't have to worry about the size of the Web browser or screen resolution, he can use liquid layouts.
+It doesn't matter WHO is viewing the page, the designer is able to get as much information as possible across even a small screen.
+
+It's always easier to scroll down than to scroll left and right if you want to read something, that's where liquid layouts come in handy. 
